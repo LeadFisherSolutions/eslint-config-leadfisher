@@ -1,16 +1,15 @@
-# [Node js] ESLint config for leadfisher projects
+<h1 align="center">[Node js] ESLint config for leadfisher projects</h1>
 
-## Usage
 
-1. Install ESLint, this config and required plugins:
+**1**. Install ESLint, this config and required plugins: <br/>
 
    ```bash
-   npm i -D eslint eslint-plugin-import eslint-config-leadfisher
+   npm i -D eslint prettier eslint-plugin-import eslint-config-leadfisher eslint-config-prettier eslint-plugin-prettier
    ```
 
-2. Add `"extends": "leadfisher"` to your `.eslintrc`.
+**2**. Add `"extends": ["leadfisher"]` to your `.eslintrc`.
 
-3. Add following scripts
+**3**. _(optional)_ Add following scripts
 
 ```json
 {
@@ -22,17 +21,3 @@
 }
 ```
 
-### Remove following lints, if you use different bandler than node or webpack
-
-```json
-{
-  "new-cap": [
-      "error",
-      {
-        "newIsCap": true,
-        "capIsNew": false,
-        "properties": true,
-      },
-    ],
-    "import/no-unresolved": "off",
-}
