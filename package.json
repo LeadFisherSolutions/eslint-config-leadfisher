@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-leadfisher",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Leadfisher eslint rules",
   "packageManager": "npm@9.6.4",
   "main": "index.js",
