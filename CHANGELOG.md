@@ -10,5 +10,5 @@
 
 - Stable version
 
-[1.1.0]: https://github.com/LeadFisherSolutions/workspace-example/compare/release...v1.1.0
-[1.0.0]: https://github.com/LeadFisherSolutions/workspace-example/releases/tag/release
+[1.1.0]: https://github.com/LeadFisherSolutions/eslint-config-leadfisher/compare/release...v1.1.0
+[1.0.0]: https://github.com/LeadFisherSolutions/eslint-config-leadfisher/releases/tag/release
