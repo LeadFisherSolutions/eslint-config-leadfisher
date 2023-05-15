@@ -17,7 +17,7 @@
     "fmt": "prettier --write \"**/*.js\" \"**/*.json\" \"**/*.md\" \".*rc\" \"**/*.yml\"",
     "test": "npm run -s lint"
   },
-  "keywords": ["eslint", "config", "leadfisher"],
+  "keywords": ["eslint", "eslint-config", "leadfisher", "nodejs", "javascript"],
   "author": "Alexander Ivanov <sashapop101@gmail.com>",
   "license": "MIT",
   "devDependencies": {
