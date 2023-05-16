@@ -21,3 +21,11 @@
 }
 ```
 
+
+<h2 align="center">Copyright & contributors</h2>
+
+<p align="center">
+Copyright © 2023 <a href="https://github.com/LeadFisherSolutions/eslint-config-leadfisher/graphs/contributors">Leadfisher contributors</a>.
+Eslint-config-leadfisher is <a href="./LICENSE">MIT licensed license</a>.<br/>
+Eslint-config-leadfisher is one of <a href="https://github.com/LeadFisherSolutions">leadfisher solutions</a>.
+</p>
