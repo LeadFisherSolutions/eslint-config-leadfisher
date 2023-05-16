@@ -1,4 +1,4 @@
-<h1 align="center">[Node js] ESLint config for leadfisher projects</h1>
+<h1 align="center">ESLint config for leadfisher projects</h1>
 
 
 **1**. Install ESLint, this config and required plugins: <br/>
